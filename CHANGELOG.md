@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.147.0](https://github.com/cnpm/unpkg-white-list/compare/v1.146.0...v1.147.0) (2024-11-21)
+
+
+### Features
+
+* add cnchar-data ([#326](https://github.com/cnpm/unpkg-white-list/issues/326)) ([3c7992a](https://github.com/cnpm/unpkg-white-list/commit/3c7992aa3a17ed573f5b0ab4850ac6c1ebcd9efb))
+
+## [1.146.0](https://github.com/cnpm/unpkg-white-list/compare/v1.145.0...v1.146.0) (2024-11-19)
+
+
+### Features
+
+* add [@jx3box](https://github.com/jx3box) ([#325](https://github.com/cnpm/unpkg-white-list/issues/325)) ([80e5dd9](https://github.com/cnpm/unpkg-white-list/commit/80e5dd9ee04b7fbdb7c0f3d940dcecc86d2240e1))
+
 ## [1.145.0](https://github.com/cnpm/unpkg-white-list/compare/v1.144.0...v1.145.0) (2024-11-15)
 
 
