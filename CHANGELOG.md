@@ -1,5 +1,117 @@
 # Changelog
 
+## [1.163.0](https://github.com/cnpm/unpkg-white-list/compare/v1.162.0...v1.163.0) (2025-02-15)
+
+
+### Features
+
+* add pjax ([#345](https://github.com/cnpm/unpkg-white-list/issues/345)) ([24d3ebe](https://github.com/cnpm/unpkg-white-list/commit/24d3ebe9994d6e901eca3c8b0c492f4e136e17fc))
+
+## [1.162.0](https://github.com/cnpm/unpkg-white-list/compare/v1.161.0...v1.162.0) (2025-02-12)
+
+
+### Features
+
+* add vxe-pc-ui ([#343](https://github.com/cnpm/unpkg-white-list/issues/343)) ([9f53fe5](https://github.com/cnpm/unpkg-white-list/commit/9f53fe59c51d5e8be0c6294d83601a2f627c8f36))
+
+## [1.161.0](https://github.com/cnpm/unpkg-white-list/compare/v1.160.0...v1.161.0) (2025-02-12)
+
+
+### Features
+
+* add quicklink, [@next-theme](https://github.com/next-theme), hexo-generator-searchdb, pace-js ([#342](https://github.com/cnpm/unpkg-white-list/issues/342)) ([5fcd373](https://github.com/cnpm/unpkg-white-list/commit/5fcd373a4f7a86c4872b0d795e3a9d3116395411))
+
+## [1.160.0](https://github.com/cnpm/unpkg-white-list/compare/v1.159.0...v1.160.0) (2025-02-07)
+
+
+### Features
+
+* add [@yookue](https://github.com/yookue) ([#341](https://github.com/cnpm/unpkg-white-list/issues/341)) ([06705ec](https://github.com/cnpm/unpkg-white-list/commit/06705ec2fa39406ddc3a6c00e26cf624ef52aaf4))
+
+## [1.159.0](https://github.com/cnpm/unpkg-white-list/compare/v1.158.0...v1.159.0) (2025-02-07)
+
+
+### Features
+
+* add Pandown ([#338](https://github.com/cnpm/unpkg-white-list/issues/338)) ([fe96fd3](https://github.com/cnpm/unpkg-white-list/commit/fe96fd311d3cd245b746585fb9fb30e7a498752f))
+
+## [1.158.0](https://github.com/cnpm/unpkg-white-list/compare/v1.157.0...v1.158.0) (2025-02-07)
+
+
+### Features
+
+* add bun and its platform-specified packages ([#340](https://github.com/cnpm/unpkg-white-list/issues/340)) ([68fab54](https://github.com/cnpm/unpkg-white-list/commit/68fab5456de1f85f0f949073a77ff17106e63b6a))
+
+## [1.157.0](https://github.com/cnpm/unpkg-white-list/compare/v1.156.0...v1.157.0) (2025-02-05)
+
+
+### Features
+
+* add hexo-butterfly-tag-plugins-plus ([#339](https://github.com/cnpm/unpkg-white-list/issues/339)) ([08b5910](https://github.com/cnpm/unpkg-white-list/commit/08b5910b00659985f279f0e09000508e2e4586df))
+
+## [1.156.0](https://github.com/cnpm/unpkg-white-list/compare/v1.155.0...v1.156.0) (2025-01-18)
+
+
+### Features
+
+* add qexo-static ([#337](https://github.com/cnpm/unpkg-white-list/issues/337)) ([70ca53d](https://github.com/cnpm/unpkg-white-list/commit/70ca53d6356f04cdc3c3e2d1100fa712e990c26d)), closes [/#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519R12061-R12063](https://github.com/cnpm///issues/diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519R12061-R12063)
+
+## [1.155.0](https://github.com/cnpm/unpkg-white-list/compare/v1.154.0...v1.155.0) (2025-01-17)
+
+
+### Features
+
+* add `postal-mime` ([#335](https://github.com/cnpm/unpkg-white-list/issues/335)) ([31396e2](https://github.com/cnpm/unpkg-white-list/commit/31396e2d3ea1f2688bc9a70682ec31a7bbfe2c0c))
+
+## [1.154.0](https://github.com/cnpm/unpkg-white-list/compare/v1.153.0...v1.154.0) (2025-01-17)
+
+
+### Features
+
+* add tianshu-components ([#336](https://github.com/cnpm/unpkg-white-list/issues/336)) ([b3ebd15](https://github.com/cnpm/unpkg-white-list/commit/b3ebd159026389762f562020836513dc347da2d4))
+
+## [1.153.0](https://github.com/cnpm/unpkg-white-list/compare/v1.152.0...v1.153.0) (2025-01-13)
+
+
+### Features
+
+* add naive-ui and quasar framework ([#332](https://github.com/cnpm/unpkg-white-list/issues/332)) ([df4c41a](https://github.com/cnpm/unpkg-white-list/commit/df4c41ac5cdc457455b06bd41f0b7792c0beb265))
+
+## [1.152.0](https://github.com/cnpm/unpkg-white-list/compare/v1.151.0...v1.152.0) (2025-01-13)
+
+
+### Features
+
+* add @xiaochuan-dev/source ([#333](https://github.com/cnpm/unpkg-white-list/issues/333)) ([6f9c527](https://github.com/cnpm/unpkg-white-list/commit/6f9c527be6bfb101410cba78f44e4fd4ecc31a14)), closes [/github.com/cnpm/unpkg-white-list/blob/master/package.json#L18442](https://github.com/cnpm//github.com/cnpm/unpkg-white-list/blob/master/package.json/issues/L18442)
+
+## [1.151.0](https://github.com/cnpm/unpkg-white-list/compare/v1.150.0...v1.151.0) (2025-01-13)
+
+
+### Features
+
+* add scope [@toco-design](https://github.com/toco-design) ([#334](https://github.com/cnpm/unpkg-white-list/issues/334)) ([8af8e6d](https://github.com/cnpm/unpkg-white-list/commit/8af8e6d337532b1b0aed575ba4c0456db6b93891))
+
+## [1.150.0](https://github.com/cnpm/unpkg-white-list/compare/v1.149.0...v1.150.0) (2024-12-15)
+
+
+### Features
+
+* add `[@electric-sql](https://github.com/electric-sql)` scope package ([#330](https://github.com/cnpm/unpkg-white-list/issues/330)) ([a67064d](https://github.com/cnpm/unpkg-white-list/commit/a67064d672e51de343843ba29028ebfb7ccf5ba6))
+
+## [1.149.0](https://github.com/cnpm/unpkg-white-list/compare/v1.148.0...v1.149.0) (2024-12-12)
+
+
+### Features
+
+* add [@gsc-basic](https://github.com/gsc-basic) ([#329](https://github.com/cnpm/unpkg-white-list/issues/329)) ([02b433f](https://github.com/cnpm/unpkg-white-list/commit/02b433f4393007614244c7ebde23fe9eddf18d43))
+
+## [1.148.0](https://github.com/cnpm/unpkg-white-list/compare/v1.147.0...v1.148.0) (2024-12-07)
+
+
+### Features
+
+* add butterfly-extsrc ([#327](https://github.com/cnpm/unpkg-white-list/issues/327)) ([38205f2](https://github.com/cnpm/unpkg-white-list/commit/38205f22e0814c32456f788deeb7ae95b6d70170))
+
 ## [1.147.0](https://github.com/cnpm/unpkg-white-list/compare/v1.146.0...v1.147.0) (2024-11-21)
 
 

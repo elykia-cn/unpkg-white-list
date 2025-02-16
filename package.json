@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.147.0",
+  "version": "1.163.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -71,6 +71,7 @@
     "@dnd-kit",
     "@douyinfe",
     "@eggjs",
+    "@electric-sql",
     "@electron",
     "@elykia",
     "@elykia-img",
@@ -100,6 +101,7 @@
     "@gkd-kit",
     "@goldfishjs",
     "@googlemaps",
+    "@gsc-basic",
     "@highlightjs",
     "@hkyhy",
     "@hook-js",
@@ -156,6 +158,7 @@
     "@opentiny",
     "@orillusion",
     "@otplib",
+    "@oven",
     "@paciolan",
     "@pagefind",
     "@pansy",
@@ -173,6 +176,7 @@
     "@pubinfo",
     "@puffer0315",
     "@qse",
+    "@quasar",
     "@radix-ui",
     "@rc-component",
     "@reach",
@@ -181,6 +185,7 @@
     "@react-spring",
     "@react-three",
     "@remax",
+    "@ricons",
     "@rjsf",
     "@rollup",
     "@ruiyun",
@@ -191,6 +196,7 @@
     "@secretflow",
     "@sentry",
     "@shopify",
+    "@sicons",
     "@size-limit",
     "@smui",
     "@splinetool",
@@ -219,6 +225,7 @@
     "@tinyjs-plugin-three",
     "@tinymce",
     "@toast-ui",
+    "@toco-design",
     "@tomjs",
     "@tryghost",
     "@tsconfig",
@@ -234,10 +241,12 @@
     "@umijs",
     "@uni",
     "@unocss",
+    "@v2icons",
     "@valeera",
     "@vanilla-extract",
     "@vercel",
     "@vibrant",
+    "@vicons",
     "@videojs-player",
     "@vitejs",
     "@vitest",
@@ -258,6 +267,7 @@
     "@xstate",
     "@xterm",
     "@yarnpkg",
+    "@yookue",
     "@yse",
     "@yuntijs",
     "@yuzhang134562",
@@ -902,6 +912,12 @@
     "@multiavatar/multiavatar": {
       "version": "*"
     },
+    "@next-theme": {
+      "version": "*"
+    },
+    "@next-theme/pjax": {
+      "version": "*"
+    },
     "@novnc/novnc": {
       "version": "*"
     },
@@ -1212,6 +1228,9 @@
       "version": "*"
     },
     "@xenova/transformers": {
+      "version": "*"
+    },
+    "@xiaochuan-dev/source": {
       "version": "*"
     },
     "@xzdarcy/react-timeline-editor": {
@@ -2990,6 +3009,9 @@
     "bumpp": {
       "version": "*"
     },
+    "bun": {
+      "version": "*"
+    },
     "bunchee": {
       "version": "*"
     },
@@ -3000,6 +3022,9 @@
       "version": "*"
     },
     "busboy": {
+      "version": "*"
+    },
+    "butterfly-extsrc": {
       "version": "*"
     },
     "bwip-js": {
@@ -7322,6 +7347,9 @@
     "hexo": {
       "version": "*"
     },
+    "hexo-butterfly-tag-plugins-plus": {
+      "version": "*"
+    },
     "hexo-generator-archive": {
       "version": "*"
     },
@@ -7329,6 +7357,9 @@
       "version": "*"
     },
     "hexo-generator-index": {
+      "version": "*"
+    },
+    "hexo-generator-searchdb": {
       "version": "*"
     },
     "hexo-generator-tag": {
@@ -10496,6 +10527,9 @@
     "nacos-sdk-rust-binding-node": {
       "version": "*"
     },
+    "naive-ui": {
+      "version": "*"
+    },
     "name-storage": {
       "version": "*"
     },
@@ -11132,6 +11166,9 @@
     "p5": {
       "version": "*"
     },
+    "pace-js": {
+      "version": "*"
+    },
     "package-hash": {
       "version": "*"
     },
@@ -11154,6 +11191,9 @@
       "version": "*"
     },
     "pako": {
+      "version": "*"
+    },
+    "pandown": {
       "version": "*"
     },
     "panel-manager": {
@@ -11417,6 +11457,9 @@
     "pizzip": {
       "version": "*"
     },
+    "pjax": {
+      "version": "*"
+    },
     "pkg": {
       "version": "*"
     },
@@ -11511,6 +11554,9 @@
       "version": "*"
     },
     "post-messenger": {
+      "version": "*"
+    },
+    "postal-mime": {
       "version": "*"
     },
     "postcss": {
@@ -12038,6 +12084,9 @@
     "q": {
       "version": "*"
     },
+    "qexo-static": {
+      "version": "*"
+    },
     "qhistory": {
       "version": "*"
     },
@@ -12125,6 +12174,9 @@
     "quantize": {
       "version": "*"
     },
+    "quasar": {
+      "version": "*"
+    },
     "query-string": {
       "version": "*"
     },
@@ -12141,6 +12193,9 @@
       "version": "*"
     },
     "queue": {
+      "version": "*"
+    },
+    "quicklink": {
       "version": "*"
     },
     "quicktype-core": {
@@ -16403,6 +16458,9 @@
     "through2": {
       "version": "*"
     },
+    "tianshu-components": {
+      "version": "*"
+    },
     "tiktoken": {
       "version": "*"
     },
@@ -17991,6 +18049,9 @@
       "version": "*"
     },
     "vux-loader": {
+      "version": "*"
+    },
+    "vxe-pc-ui": {
       "version": "*"
     },
     "vxe-table": {
