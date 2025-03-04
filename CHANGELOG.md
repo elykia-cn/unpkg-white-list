@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.167.0](https://github.com/cnpm/unpkg-white-list/compare/v1.166.0...v1.167.0) (2025-03-01)
+
+
+### Features
+
+* add layer-src ([#350](https://github.com/cnpm/unpkg-white-list/issues/350)) ([959fff7](https://github.com/cnpm/unpkg-white-list/commit/959fff7727f589d06e1cee3424773d4f27ad3626))
+
+## [1.166.0](https://github.com/cnpm/unpkg-white-list/compare/v1.165.0...v1.166.0) (2025-02-24)
+
+
+### Features
+
+* add gt4-css-js ([#349](https://github.com/cnpm/unpkg-white-list/issues/349)) ([c3cacd9](https://github.com/cnpm/unpkg-white-list/commit/c3cacd9971c0f20947f3524caf274f0c24f3872c))
+
+## [1.165.0](https://github.com/cnpm/unpkg-white-list/compare/v1.164.0...v1.165.0) (2025-02-20)
+
+
+### Features
+
+* add @egjs/infinitegrid and instant.page ([#347](https://github.com/cnpm/unpkg-white-list/issues/347)) ([841718d](https://github.com/cnpm/unpkg-white-list/commit/841718d0306d8595022587885db6c5bfeb70a86c))
+
+## [1.164.0](https://github.com/cnpm/unpkg-white-list/compare/v1.163.0...v1.164.0) (2025-02-19)
+
+
+### Features
+
+* add @jiuqianyuan/aisouler_gkd_subscription ([#346](https://github.com/cnpm/unpkg-white-list/issues/346)) ([94663b4](https://github.com/cnpm/unpkg-white-list/commit/94663b456a2ba8ec73557196e6b3d61db4d6e599))
+
 ## [1.163.0](https://github.com/cnpm/unpkg-white-list/compare/v1.162.0...v1.163.0) (2025-02-15)
 
 
