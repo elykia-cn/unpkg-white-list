@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.167.0",
+  "version": "1.176.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -64,6 +64,7 @@
     "@cnpmjs",
     "@codemirror",
     "@commitlint",
+    "@creativecommons",
     "@dashuaibi45678",
     "@dcloudio",
     "@designable",
@@ -131,6 +132,7 @@
     "@kne-components",
     "@koa",
     "@latticexyz",
+    "@leancloud",
     "@lerna",
     "@lincy",
     "@lingui",
@@ -272,6 +274,7 @@
     "@yuntijs",
     "@yuzhang134562",
     "@zeit",
+    "@ziuchen",
     "@ztocwst",
     "@zxcvbn-ts"
   ],
@@ -493,6 +496,9 @@
       "version": "*"
     },
     "@ebay/nice-modal-react": {
+      "version": "*"
+    },
+    "@ebiz/lowcode-components": {
       "version": "*"
     },
     "@ecomfe/eslint-config": {
@@ -3177,6 +3183,9 @@
     "catnb-cdn": {
       "version": "*"
     },
+    "cesium": {
+      "version": "*"
+    },
     "chai": {
       "version": "*"
     },
@@ -4243,6 +4252,9 @@
       "version": "*"
     },
     "dagre-d3-react": {
+      "version": "*"
+    },
+    "daisyui": {
       "version": "*"
     },
     "darkreader": {
@@ -5512,6 +5524,9 @@
       "version": "*"
     },
     "esbuild-register": {
+      "version": "*"
+    },
+    "esbuild-wasm": {
       "version": "*"
     },
     "esbuild-webpack-plugin": {
@@ -7395,6 +7410,9 @@
     "hexo-theme-landscape": {
       "version": "*"
     },
+    "hexo-theme-next": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
@@ -9094,6 +9112,12 @@
       "version": "*"
     },
     "leaflet.markercluster": {
+      "version": "*"
+    },
+    "leancloud-realtime": {
+      "version": "*"
+    },
+    "leancloud-storage": {
       "version": "*"
     },
     "left-pad": {
@@ -15555,6 +15579,9 @@
     "skinview3d": {
       "version": "*"
     },
+    "skulpt": {
+      "version": "*"
+    },
     "sky-manager": {
       "version": "*"
     },
@@ -15715,6 +15742,9 @@
       "version": "*"
     },
     "spinners-react": {
+      "version": "*"
+    },
+    "splayer-js": {
       "version": "*"
     },
     "split-grid": {
@@ -18409,9 +18439,6 @@
       "version": "*"
     },
     "wormhole-x": {
-      "version": "*"
-    },
-    "wot-design-uni-assets": {
       "version": "*"
     },
     "wrapper-webpack-plugin": {

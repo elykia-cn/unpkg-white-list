@@ -1,5 +1,75 @@
 # Changelog
 
+## [1.176.0](https://github.com/cnpm/unpkg-white-list/compare/v1.175.0...v1.176.0) (2025-04-08)
+
+
+### Features
+
+* add [@ziuchen](https://github.com/ziuchen) scope ([#364](https://github.com/cnpm/unpkg-white-list/issues/364)) ([c3d621a](https://github.com/cnpm/unpkg-white-list/commit/c3d621adf65cefc290aa2e3812874b25281ad175))
+
+## [1.175.0](https://github.com/cnpm/unpkg-white-list/compare/v1.174.0...v1.175.0) (2025-04-03)
+
+
+### Features
+
+* add "@ebiz/lowcode-components" package ([#354](https://github.com/cnpm/unpkg-white-list/issues/354)) ([daca11a](https://github.com/cnpm/unpkg-white-list/commit/daca11a838df8cb6c6b8c3d26751fc3a4a16b432))
+
+## [1.174.0](https://github.com/cnpm/unpkg-white-list/compare/v1.173.0...v1.174.0) (2025-04-03)
+
+
+### Features
+
+* add skulpt ([#361](https://github.com/cnpm/unpkg-white-list/issues/361)) ([8fbfa85](https://github.com/cnpm/unpkg-white-list/commit/8fbfa85e8b158c0543860a53a24ec5fb8e11a9d4))
+
+## [1.173.0](https://github.com/cnpm/unpkg-white-list/compare/v1.172.0...v1.173.0) (2025-04-03)
+
+
+### Features
+
+* add esbuild-wasm ([#362](https://github.com/cnpm/unpkg-white-list/issues/362)) ([a5f302f](https://github.com/cnpm/unpkg-white-list/commit/a5f302fa5075d42ade9c4607fb469939cc5b8d39))
+
+## [1.172.0](https://github.com/cnpm/unpkg-white-list/compare/v1.171.1...v1.172.0) (2025-04-01)
+
+
+### Features
+
+* add leancloud js sdk to cnpm cdn ([#358](https://github.com/cnpm/unpkg-white-list/issues/358)) ([e8f8b73](https://github.com/cnpm/unpkg-white-list/commit/e8f8b73110882246239b674ec8ca45b027928e08))
+
+## [1.171.1](https://github.com/cnpm/unpkg-white-list/compare/v1.171.0...v1.171.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* remove xiao-xm and wot-design-uni-assets ([#356](https://github.com/cnpm/unpkg-white-list/issues/356)) ([9b2adf1](https://github.com/cnpm/unpkg-white-list/commit/9b2adf1c67e8682e27608bbe289129b15fd0c012))
+
+## [1.171.0](https://github.com/cnpm/unpkg-white-list/compare/v1.170.0...v1.171.0) (2025-03-31)
+
+
+### Features
+
+* add xiao-xm support ([#355](https://github.com/cnpm/unpkg-white-list/issues/355)) ([2b587ec](https://github.com/cnpm/unpkg-white-list/commit/2b587ec0080eaea2aea55e0dae0ab6ebcd044fc0))
+
+## [1.170.0](https://github.com/cnpm/unpkg-white-list/compare/v1.169.0...v1.170.0) (2025-03-27)
+
+
+### Features
+
+* add splayer-js ([#353](https://github.com/cnpm/unpkg-white-list/issues/353)) ([5705829](https://github.com/cnpm/unpkg-white-list/commit/570582959ff528b4008736a4afdfd83c1960472d))
+
+## [1.169.0](https://github.com/cnpm/unpkg-white-list/compare/v1.168.0...v1.169.0) (2025-03-21)
+
+
+### Features
+
+* add [@creativecommons](https://github.com/creativecommons) and hexo-theme-next ([#352](https://github.com/cnpm/unpkg-white-list/issues/352)) ([9814187](https://github.com/cnpm/unpkg-white-list/commit/9814187dc2601699b06a982c2347248bf56d98d8))
+
+## [1.168.0](https://github.com/cnpm/unpkg-white-list/compare/v1.167.0...v1.168.0) (2025-03-07)
+
+
+### Features
+
+* add daisyui ([#351](https://github.com/cnpm/unpkg-white-list/issues/351)) ([fc29389](https://github.com/cnpm/unpkg-white-list/commit/fc29389064e9c0b9e252b1edd08c9885668f0b58))
+
 ## [1.167.0](https://github.com/cnpm/unpkg-white-list/compare/v1.166.0...v1.167.0) (2025-03-01)
 
 
