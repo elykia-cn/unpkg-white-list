@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.176.0",
+  "version": "1.192.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -150,6 +150,7 @@
     "@muxunorg",
     "@napi-rs",
     "@npmcli",
+    "@nutui",
     "@oasis-engine",
     "@oasis-engine-toolkit",
     "@oceanbase",
@@ -158,6 +159,7 @@
     "@okamjs",
     "@opensumi",
     "@opentiny",
+    "@opentinyvue",
     "@orillusion",
     "@otplib",
     "@oven",
@@ -242,6 +244,8 @@
     "@uiw",
     "@umijs",
     "@uni",
+    "@univerjs",
+    "@univerjs-pro",
     "@unocss",
     "@v2icons",
     "@valeera",
@@ -498,6 +502,12 @@
     "@ebay/nice-modal-react": {
       "version": "*"
     },
+    "@ebiz/designer-components": {
+      "version": "*"
+    },
+    "@ebiz/designer-components-mobile": {
+      "version": "*"
+    },
     "@ebiz/lowcode-components": {
       "version": "*"
     },
@@ -664,6 +674,9 @@
       "version": "*"
     },
     "@hotoo/orderby": {
+      "version": "*"
+    },
+    "@hotwired/turbo": {
       "version": "*"
     },
     "@hoythan/watermark-dom": {
@@ -949,6 +962,9 @@
       "version": "*"
     },
     "@open-wc/webpack-import-meta-loader": {
+      "version": "*"
+    },
+    "@openlist-frontend/openlist-frontend": {
       "version": "*"
     },
     "@opentelemetry/sdk-trace-base": {
@@ -2829,6 +2845,9 @@
     "bootstrap-select": {
       "version": "*"
     },
+    "boqi-cdn": {
+      "version": "*"
+    },
     "bowser": {
       "version": "*"
     },
@@ -3264,6 +3283,9 @@
     "chinese-conv": {
       "version": "*"
     },
+    "chinese-days": {
+      "version": "*"
+    },
     "chinese-holidays": {
       "version": "*"
     },
@@ -3400,6 +3422,9 @@
       "version": "*"
     },
     "cli-ux": {
+      "version": "*"
+    },
+    "cliclimde": {
       "version": "*"
     },
     "clientworker": {
@@ -4365,6 +4390,9 @@
     "decamelize": {
       "version": "*"
     },
+    "decap-cms": {
+      "version": "*"
+    },
     "decimal": {
       "version": "*"
     },
@@ -4612,6 +4640,12 @@
       "version": "*"
     },
     "docsearch.js": {
+      "version": "*"
+    },
+    "docsify": {
+      "version": "*"
+    },
+    "docsify-count": {
       "version": "*"
     },
     "docsify-sidebar-collapse": {
@@ -5337,6 +5371,9 @@
     "emoji-mart": {
       "version": "*"
     },
+    "emoji-picker-element-data": {
+      "version": "*"
+    },
     "emoji-reader": {
       "version": "*"
     },
@@ -5452,6 +5489,9 @@
       "version": "*"
     },
     "es-module-shims": {
+      "version": "*"
+    },
+    "es-toolkit": {
       "version": "*"
     },
     "es3ify-loader": {
@@ -9267,6 +9307,9 @@
     "live2d-widget": {
       "version": "*"
     },
+    "llqplayer": {
+      "version": "*"
+    },
     "load-script": {
       "version": "*"
     },
@@ -9712,6 +9755,9 @@
       "version": "*"
     },
     "lz-string": {
+      "version": "*"
+    },
+    "lzma": {
       "version": "*"
     },
     "m-share": {
@@ -10228,6 +10274,9 @@
       "version": "*"
     },
     "misans": {
+      "version": "*"
+    },
+    "misans-webfont": {
       "version": "*"
     },
     "mitang-cdn": {
@@ -15513,6 +15562,9 @@
     "simple-jekyll-search": {
       "version": "*"
     },
+    "simple-keyboard": {
+      "version": "*"
+    },
     "simple-module": {
       "version": "*"
     },
@@ -17869,6 +17921,9 @@
       "version": "*"
     },
     "vue": {
+      "version": "*"
+    },
+    "vue-advanced-chat": {
       "version": "*"
     },
     "vue-awesome-swiper": {

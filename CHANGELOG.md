@@ -1,5 +1,119 @@
 # Changelog
 
+## [1.192.0](https://github.com/cnpm/unpkg-white-list/compare/v1.191.0...v1.192.0) (2025-07-01)
+
+
+### Features
+
+* add es-toolkit ([#391](https://github.com/cnpm/unpkg-white-list/issues/391)) ([8ffa533](https://github.com/cnpm/unpkg-white-list/commit/8ffa53330f1caafcc6e5ade625c3d98f005af584))
+
+## [1.191.0](https://github.com/cnpm/unpkg-white-list/compare/v1.190.0...v1.191.0) (2025-06-26)
+
+
+### Features
+
+* add decap-cms ([#387](https://github.com/cnpm/unpkg-white-list/issues/387)) ([b19ddf0](https://github.com/cnpm/unpkg-white-list/commit/b19ddf0d96da828df3bd209c6d1e0492acb16ed4))
+
+## [1.190.0](https://github.com/cnpm/unpkg-white-list/compare/v1.189.0...v1.190.0) (2025-06-25)
+
+
+### Features
+
+* add [@nutui](https://github.com/nutui) ([#386](https://github.com/cnpm/unpkg-white-list/issues/386)) ([51cddf5](https://github.com/cnpm/unpkg-white-list/commit/51cddf596b8158eb28d69b3d0413bf95130ba862))
+
+## [1.189.0](https://github.com/cnpm/unpkg-white-list/compare/v1.188.0...v1.189.0) (2025-06-20)
+
+
+### Features
+
+* add simple-keyboard ([#384](https://github.com/cnpm/unpkg-white-list/issues/384)) ([e3fa818](https://github.com/cnpm/unpkg-white-list/commit/e3fa818a92762b09e00359f96636ef5dfb0d3c01))
+
+## [1.188.0](https://github.com/cnpm/unpkg-white-list/compare/v1.187.0...v1.188.0) (2025-06-17)
+
+
+### Features
+
+* add `[@univerjs](https://github.com/univerjs)` & `[@univerjs-pro](https://github.com/univerjs-pro)` scope ([#383](https://github.com/cnpm/unpkg-white-list/issues/383)) ([205e470](https://github.com/cnpm/unpkg-white-list/commit/205e470ca8615aaffab52e098e9900ff6820bd91))
+
+## [1.187.0](https://github.com/cnpm/unpkg-white-list/compare/v1.186.0...v1.187.0) (2025-06-16)
+
+
+### Features
+
+* add @openlist-frontend/openlist-frontend ([#382](https://github.com/cnpm/unpkg-white-list/issues/382)) ([deb1a62](https://github.com/cnpm/unpkg-white-list/commit/deb1a62b29b6dbb317e4481dd6e8085364070fe9))
+
+## [1.186.0](https://github.com/cnpm/unpkg-white-list/compare/v1.185.0...v1.186.0) (2025-06-12)
+
+
+### Features
+
+* add docsify-related packages ([#380](https://github.com/cnpm/unpkg-white-list/issues/380)) ([e1e8609](https://github.com/cnpm/unpkg-white-list/commit/e1e860960181e54040caa90e5c1e3885245934b2))
+
+## [1.185.0](https://github.com/cnpm/unpkg-white-list/compare/v1.184.0...v1.185.0) (2025-06-12)
+
+
+### Features
+
+* add emoji-picker-element-data ([#381](https://github.com/cnpm/unpkg-white-list/issues/381)) ([ce001e1](https://github.com/cnpm/unpkg-white-list/commit/ce001e1e549be7bebda9df345c7fc8bfd9b2bac2))
+
+## [1.184.0](https://github.com/cnpm/unpkg-white-list/compare/v1.183.0...v1.184.0) (2025-06-05)
+
+
+### Features
+
+* add vue-advanced-chat ([#379](https://github.com/cnpm/unpkg-white-list/issues/379)) ([dfe20b8](https://github.com/cnpm/unpkg-white-list/commit/dfe20b8e389b5dabe4caeaf52cffcb75eba5f900))
+
+## [1.183.0](https://github.com/cnpm/unpkg-white-list/compare/v1.182.0...v1.183.0) (2025-06-03)
+
+
+### Features
+
+* add @hotwired/turbo ([#378](https://github.com/cnpm/unpkg-white-list/issues/378)) ([db7bdfc](https://github.com/cnpm/unpkg-white-list/commit/db7bdfc449b94182a1a8bc5f7765201fa59f18d9))
+
+## [1.182.0](https://github.com/cnpm/unpkg-white-list/compare/v1.181.0...v1.182.0) (2025-06-03)
+
+
+### Features
+
+* add @ebiz/designer-components and @ebiz/designer-components-mobile ([#377](https://github.com/cnpm/unpkg-white-list/issues/377)) ([135b1d7](https://github.com/cnpm/unpkg-white-list/commit/135b1d7d48cc48cbd911f1cb95d49c0cddae266f))
+
+## [1.181.0](https://github.com/cnpm/unpkg-white-list/compare/v1.180.0...v1.181.0) (2025-06-03)
+
+
+### Features
+
+* add lzma ([#376](https://github.com/cnpm/unpkg-white-list/issues/376)) ([c18a2b1](https://github.com/cnpm/unpkg-white-list/commit/c18a2b11fe74d8e7fc2b9c9dc382cab7ba49de63))
+
+## [1.180.0](https://github.com/cnpm/unpkg-white-list/compare/v1.179.0...v1.180.0) (2025-05-09)
+
+
+### Features
+
+* add [@opentinyvue](https://github.com/opentinyvue) to allowScopes ([#375](https://github.com/cnpm/unpkg-white-list/issues/375)) ([c06391f](https://github.com/cnpm/unpkg-white-list/commit/c06391f750a3380df59ba3a393c085ed3db91b68))
+
+## [1.179.0](https://github.com/cnpm/unpkg-white-list/compare/v1.178.0...v1.179.0) (2025-05-06)
+
+
+### Features
+
+* add chinese-days ([#374](https://github.com/cnpm/unpkg-white-list/issues/374)) ([7b28d37](https://github.com/cnpm/unpkg-white-list/commit/7b28d376c35de9028757009ffa5c9d7588445c82))
+* add llqplayer and boqi-cdn ([#370](https://github.com/cnpm/unpkg-white-list/issues/370)) ([e89c405](https://github.com/cnpm/unpkg-white-list/commit/e89c4055b8b11641572252c4a21b0a6829fb6773))
+
+## [1.178.0](https://github.com/cnpm/unpkg-white-list/compare/v1.177.0...v1.178.0) (2025-05-04)
+
+
+### Features
+
+* add cliclimde ([#372](https://github.com/cnpm/unpkg-white-list/issues/372)) ([9795b94](https://github.com/cnpm/unpkg-white-list/commit/9795b94bfaa0bfcf3147bdb1031d888ff0b66db5))
+
+## [1.177.0](https://github.com/cnpm/unpkg-white-list/compare/v1.176.0...v1.177.0) (2025-04-15)
+
+
+### Features
+
+* add cesium ([#365](https://github.com/cnpm/unpkg-white-list/issues/365)) ([5ba74bd](https://github.com/cnpm/unpkg-white-list/commit/5ba74bd8b710ebdc48c64d532e8291db0027dc56))
+* add misans-webfont dependency ([#368](https://github.com/cnpm/unpkg-white-list/issues/368)) ([e5ed011](https://github.com/cnpm/unpkg-white-list/commit/e5ed0118581234c65889d8655095d5392f9c902f))
+
 ## [1.176.0](https://github.com/cnpm/unpkg-white-list/compare/v1.175.0...v1.176.0) (2025-04-08)
 
 
