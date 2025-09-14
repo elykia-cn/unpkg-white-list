@@ -1,5 +1,52 @@
 # Changelog
 
+## 1.199.0 (2025-08-21)
+
+* feat: add package tiny-segmenter (#407) ([a77a016](https://github.com/cnpm/unpkg-white-list/commit/a77a016)), closes [#407](https://github.com/cnpm/unpkg-white-list/issues/407)
+
+## 1.198.0 (2025-08-11)
+
+* feat: add weui (#404) ([2b31872](https://github.com/cnpm/unpkg-white-list/commit/2b31872)), closes [#404](https://github.com/cnpm/unpkg-white-list/issues/404)
+
+## <small>1.197.1 (2025-08-11)</small>
+
+* fix: remove @muxunorg (#406) ([63493c6](https://github.com/cnpm/unpkg-white-list/commit/63493c6)), closes [#406](https://github.com/cnpm/unpkg-white-list/issues/406)
+
+## [1.197.0](https://github.com/cnpm/unpkg-white-list/compare/v1.196.0...v1.197.0) (2025-07-31)
+
+
+### Features
+
+* add `[@material](https://github.com/material)` scope ([#402](https://github.com/cnpm/unpkg-white-list/issues/402)) ([04a5767](https://github.com/cnpm/unpkg-white-list/commit/04a576745c3423562d95ea81ade75e94a456f1ff))
+
+## [1.196.0](https://github.com/cnpm/unpkg-white-list/compare/v1.195.0...v1.196.0) (2025-07-30)
+
+
+### Features
+
+* add mui-player ([#401](https://github.com/cnpm/unpkg-white-list/issues/401)) ([cca154c](https://github.com/cnpm/unpkg-white-list/commit/cca154c6fc3e2908bd83f5dbd669d7bd928c0c8d))
+
+## [1.195.0](https://github.com/cnpm/unpkg-white-list/compare/v1.194.0...v1.195.0) (2025-07-30)
+
+
+### Features
+
+* add package less_browser_fix ([#397](https://github.com/cnpm/unpkg-white-list/issues/397)) ([d6ce6f6](https://github.com/cnpm/unpkg-white-list/commit/d6ce6f63120792da2ceb934351c322a711ba1d4f))
+
+## [1.194.0](https://github.com/cnpm/unpkg-white-list/compare/v1.193.0...v1.194.0) (2025-07-30)
+
+
+### Features
+
+* add `[@shikijs](https://github.com/shikijs)` to allowScopes ([#396](https://github.com/cnpm/unpkg-white-list/issues/396)) ([a77192a](https://github.com/cnpm/unpkg-white-list/commit/a77192ab84931006749fec3a9f9731e42adaa8e5))
+
+## [1.193.0](https://github.com/cnpm/unpkg-white-list/compare/v1.192.0...v1.193.0) (2025-07-30)
+
+
+### Features
+
+* add `lxgw-wenkai-webfont`, `lxgw-wenkai-lite-webfont`, `lxgw-wenkai-tc-webfont`, and `lxgw-wenkai-screen-webfont` ([#398](https://github.com/cnpm/unpkg-white-list/issues/398)) ([226e744](https://github.com/cnpm/unpkg-white-list/commit/226e7441b27b1e286aa055ef1211ebca6ca7d1bf))
+
 ## [1.192.0](https://github.com/cnpm/unpkg-white-list/compare/v1.191.0...v1.192.0) (2025-07-01)
 
 
